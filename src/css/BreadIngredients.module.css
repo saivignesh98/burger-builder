@@ -1,0 +1,14 @@
+.burger {
+  width: 500px;
+  height: 450px;
+  margin: auto;
+}
+
+.bunTop {
+  background: linear-gradient(#c9621d, #e68a4d);
+  height: 20%;
+  width: 80%;
+  border-radius: 50% 50% 0 0;
+  box-shadow: inset -15px 0 #9c4c16;
+  margin: auto;
+}
