@@ -10,5 +10,13 @@
   width: 80%;
   border-radius: 50% 50% 0 0;
   box-shadow: inset -15px 0 #9c4c16;
-  margin: auto;
+  margin: 1% auto;
+}
+
+.veggies {
+  height: 6%;
+  width: 85%;
+  background: linear-gradient(#1f7f1a, #8ecd4c);
+  margin: 1% auto;
+  border-radius: 25px;
 }
