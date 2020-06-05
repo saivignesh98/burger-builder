@@ -5,11 +5,16 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 import { Navbar } from 'reactstrap';
 import React, { Component } from 'react';
 import './App.css';
+import Layout from './components/Layout';
 
 class App extends Component {
 	render() {
 		return (
-			<h1>Burger Building time nomnom</h1>
+			<div className="App">
+				<Layout>
+					<p>Test to see if layout works</p>
+				</Layout>
+			</div>
 		)
 	}
 }
