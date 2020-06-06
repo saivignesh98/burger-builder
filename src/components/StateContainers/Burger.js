@@ -4,6 +4,7 @@ import BunTop from '../Functional/BunTop';
 import Veggies from '../Functional/Veggies';
 import BunBottom from '../Functional/BunBottom';
 import Meat from '../Functional/Meat';
+import Cheese from '../Functional/Cheese';
 
 class Burger extends Component {
     render() {
@@ -12,6 +13,7 @@ class Burger extends Component {
                 <BunTop />
                 <Veggies />
                 <Meat />
+                <Cheese />
                 <BunBottom />
             </div>
         )
