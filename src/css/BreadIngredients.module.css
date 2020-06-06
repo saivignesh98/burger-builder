@@ -21,6 +21,13 @@
   border-radius: 25px;
 }
 
+.meat {
+  height: 3.5%;
+  width: 80%;
+  background: linear-gradient(#ba3712, #c75e38);
+  margin: 1% auto;
+}
+
 .bunBottom {
   height: 12%;
   width: 80%;
