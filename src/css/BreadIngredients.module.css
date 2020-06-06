@@ -28,11 +28,19 @@
   margin: 1% auto;
 }
 
-.cheese{
+.cheese {
   height: 4.5%;
   width: 90%;
   margin: 1% auto;
   background: linear-gradient(#fbd604, #ddc122);
+  border-radius: 15px;
+}
+
+.patty {
+  height: 8.5%;
+  width: 80%;
+  margin: 1% auto;
+  background: linear-gradient(#753608, #7a3206);
   border-radius: 15px;
 }
 
