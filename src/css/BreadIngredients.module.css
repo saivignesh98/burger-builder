@@ -20,3 +20,35 @@
   margin: 1% auto;
   border-radius: 25px;
 }
+
+.meat {
+  height: 3.5%;
+  width: 80%;
+  background: linear-gradient(#ba3712, #c75e38);
+  margin: 1% auto;
+}
+
+.cheese {
+  height: 4.5%;
+  width: 90%;
+  margin: 1% auto;
+  background: linear-gradient(#fbd604, #ddc122);
+  border-radius: 15px;
+}
+
+.patty {
+  height: 8.5%;
+  width: 80%;
+  margin: 1% auto;
+  background: linear-gradient(#753608, #7a3206);
+  border-radius: 15px;
+}
+
+.bunBottom {
+  height: 12%;
+  width: 80%;
+  background: linear-gradient(#e68a4d, #c9621d);
+  margin: 1% auto;
+  box-shadow: inset -15px 0 #9c4c16;
+  border-radius: 0 0 25px 25px;
+}
